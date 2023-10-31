@@ -1,0 +1,6 @@
+trafilatura
+jupyter
+langchain
+tiktoken
+chromadb
+openai

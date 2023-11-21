@@ -1,0 +1,8 @@
+chromadb==0.4.10
+jupyter==1.0.0
+langchain==0.0.331
+openai==0.28.1
+ragas==0.0.19
+tiktoken==0.5.1
+python-dotenv==1.0.0
+trafilatura==1.6.2
